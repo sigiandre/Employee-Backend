@@ -5947,24 +5947,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/andrediaz/.nuget/packages/": {}
+    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrediaz/Desktop/Employee/EmployeeRegisterAPI/EmployeeRegisterAPI/EmployeeRegisterAPI.csproj",
+      "projectUniqueName": "D:\\Programacion\\Aplicacion Web\\Employee\\EmployeeRegisterAPI\\EmployeeRegisterAPI\\EmployeeRegisterAPI.csproj",
       "projectName": "EmployeeRegisterAPI",
-      "projectPath": "/Users/andrediaz/Desktop/Employee/EmployeeRegisterAPI/EmployeeRegisterAPI/EmployeeRegisterAPI.csproj",
-      "packagesPath": "/Users/andrediaz/.nuget/packages/",
-      "outputPath": "/Users/andrediaz/Desktop/Employee/EmployeeRegisterAPI/EmployeeRegisterAPI/obj/",
+      "projectPath": "D:\\Programacion\\Aplicacion Web\\Employee\\EmployeeRegisterAPI\\EmployeeRegisterAPI\\EmployeeRegisterAPI.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "D:\\Programacion\\Aplicacion Web\\Employee\\EmployeeRegisterAPI\\EmployeeRegisterAPI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/andrediaz/.config/NuGet/NuGet.Config"
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6020,7 +6030,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
